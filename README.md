@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working as Principal Solutions Engineer at Snyk
+- 🔭 I’m currently working as Principal Solutions Engineer
 - 💬 Ask me about Cloud Security, DevSecOps, AppSec, Application Security, Customer Identity & Access Management, Authentication, OAuth2, OpenID Connect
 - 📫 How to reach me: LinkedIn or Twitter (@mathiasconradt) message
 - 😄 Pronouns: he/him
