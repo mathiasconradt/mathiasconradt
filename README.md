@@ -26,3 +26,22 @@ There is no login, cloud sync service, telemetry, remote storage, account system
   alt="Tektite — a lightweight Markdown knowledge-base app for local folders"
   width="300"
 />
+
+---
+
+# Screen Cursor
+
+Native macOS menu bar app that draws a configurable highlight circle around the cursor.
+
+[![Build](https://github.com/mathiasconradt/screencursor/actions/workflows/build.yml/badge.svg)](https://github.com/mathiasconradt/screencursor/actions/workflows/build.yml) [![Quality Gate Status](https://sonarcloud.io/api/project_badges/measure?project=mathiasconradt_screencursor&metric=alert_status)](https://sonarcloud.io/summary/new_code?id=mathiasconradt_screencursor)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Buy me a coffee](https://img.shields.io/badge/Buy%20me-a%20coffee-ff5f5f?logo=ko-fi&logoColor=white)](https://ko-fi.com/mathiasconradt)
+![GitHub stars](https://img.shields.io/github/stars/mathiasconradt/screencursor)
+
+<img
+  src="https://github.com/mathiasconradt/screencursor/raw/main/docs/assets/screencursor.png"
+  alt="Screen Cursor macOS app"
+  width="300"
+/>
+
+
